@@ -1,0 +1,227 @@
+Timestamp,Name,Email id,Phone No.,Problem facing with the application,Issue (in words)
+4/20/2024 0:38:00,Usha,Usha123@gmail.com,9008564320,Account Management,None
+4/20/2024 7:43:00,Mala Srivastava,couns@gmail.com,9430804368,Account Management,Some fields may be modified
+4/20/2024 8:59:00,Riya Bagga,Riya142@gmail.com,9626263647,Account Management,Account error
+4/20/2024 9:23:00,Malini,mala.albums@gmail.com,7362875730,Account Management,Account management needs some corrections
+4/20/2024 9:24:00,Office P,10629458@cbsedigitaledu.in,9431248368,Account Management,Account management section needs correcrion
+4/20/2024 10:00:00,Sunny poonia,Poonia1749@gmail.com,7204762837,Account Management,Accounting issue
+4/20/2024 8:30:00,John Doe,john@example.com,123-456-7890,Account Management,Unable to reset password
+4/20/2024 12:15:00,Alice Brown,alice@example.com,222-333-4444,Account Management,Cannot update my profile information
+4/20/2024 16:00:00,David Wilson,david@example.com,666-777-8888,Account Management,Unable to add new payment method
+4/20/2024 19:45:00,Olivia Clark,olivia@example.com,333-444-5555,Account Management,Profile picture won't update
+4/20/2024 23:30:00,Noah Young,noah@example.com,777-666-5555,Account Management,Cannot delete my account
+4/21/2024 11:00:00,Mia Green,mia@example.com,555-444-3333,Account Management,Unable to change email address
+4/21/2024 14:45:00,Henry King,henry@example.com,444-555-6666,Account Management,Cannot change password
+4/21/2024 18:30:00,Ella Scott,ella@example.com,888-999-0000,Account Management,Cannot delete saved payment method
+4/21/2024 22:15:00,Jack Johnson,jack@example.com,777-666-5555,Account Management,Cannot add new shipping address
+4/22/2024 9:45:00,Elizabeth Stewart,elizabeth@example.com,777-888-9999,Account Management,Unable to change account username
+4/22/2024 13:30:00,Eli Martinez,eli@example.com,555-444-3333,Account Management,Cannot change account password
+4/22/2024 17:15:00,Mila Foster,mila@example.com,666-777-8888,Account Management,Cannot delete account
+4/22/2024 21:00:00,Nathan Bryant,nathan@example.com,999-888-7777,Account Management,Unable to add new payment method
+4/23/2024 8:30:00,Leah Russell,leah@example.com,777-888-9999,Account Management,Unable to delete saved payment method
+4/23/2024 12:15:00,Michael Reed,michael.r@example.com,222-333-4444,Account Management,Unable to remove saved billing address
+4/23/2024 16:00:00,Madison Price,madison@example.com,999-888-7777,Account Management,Cannot remove saved payment method
+4/23/2024 19:45:00,Luke Murphy,luke@example.com,666-555-4444,Account Management,Cannot change account password
+4/23/2024 23:30:00,Leah Cooper,leah.c@example.com,777-888-9999,Account Management,Cannot remove saved payment method
+4/24/2024 11:00:00,John Reynolds,john.r@example.com,987-654-3210,Account Management,Cannot delete saved payment method
+4/24/2024 14:45:00,Penelope Perez,penelope@example.com,777-888-9999,Account Management,Cannot add new shipping address
+4/24/2024 18:30:00,Grayson Matthews,grayson@example.com,987-654-3210,Account Management,Cannot change account username
+4/24/2024 22:15:00,Luna Butler,luna@example.com,777-888-9999,Account Management,Unable to change account password
+4/25/2024 9:45:00,Emmett Carter,emmett@example.com,666-777-8888,Account Management,Unable to change email address
+4/25/2024 13:30:00,Willow Griffin,willow@example.com,777-888-9999,Account Management,Unable to delete account
+4/25/2024 17:15:00,Jaxon Hunt,jaxon@example.com,666-777-8888,Account Management,Cannot add new shipping address
+4/25/2024 21:00:00,Fiona Lopez,fiona@example.com,666-555-4444,Account Management,Cannot delete saved billing address
+4/26/2024 8:30:00,Roman Hayes,roman@example.com,123-456-7890,Account Management,Cannot change account password
+4/26/2024 12:15:00,Hazel Perry,hazel@example.com,222-333-4444,Account Management,Cannot delete account
+4/26/2024 16:00:00,Silas Ward,silas@example.com,123-456-7890,Account Management,Unable to change email address
+4/26/2024 19:45:00,Lydia Lewis,lydia@example.com,222-333-4444,Account Management,Cannot delete saved payment method
+4/26/2024 23:30:00,Braxton Hayes,braxton@example.com,123-456-7890,Account Management,Unable to remove saved billing address
+4/20/2024 0:37:00,Pooja,pooja.m@gmail.com,9.99E+11,Billing,None
+4/20/2024 0:37:00,Karthik,Karti@gmail.com,9234567009,Billing,None
+4/20/2024 8:55:00,Rohit yadav,ky98974@gmail.com,8901030998,Billing,The billing site is not working properly
+4/20/2024 9:14:00,Urmila,urvashimala@outlook.com,8521035532,Billing,Amount input can be modified.
+4/20/2024 9:27:00,Raj,Rk48368@gmail.com,8084170052,Billing,Payment mode may be defined well.
+4/20/2024 9:59:00,Rajat Dhull,Dhull2684@gmail.com,9835627271,Billing,Issue in checkout while billing
+4/20/2024 9:45:00,Jane Smith,jane@example.com,987-654-3210,Billing,Incorrect charges on my account
+4/20/2024 14:45:00,Sarah Miller,sarah@example.com,777-888-9999,Billing,Subscription not renewed automatically
+4/20/2024 18:30:00,James White,james@example.com,999-000-1111,Billing,Invoice not received for last month's usage
+4/20/2024 22:15:00,Ava Hernandez,ava@example.com,222-111-0000,Billing,Double charged for my subscription
+4/21/2024 9:45:00,Benjamin Scott,benjamin@example.com,111-222-3333,Billing,Payment failed error message despite sufficient funds
+4/21/2024 13:30:00,Isabella Lopez,isabella@example.com,333-222-1111,Billing,Account suspended despite payment
+4/21/2024 17:15:00,William Flores,william@example.com,222-333-4444,Billing,Charged for canceled subscription
+4/21/2024 21:00:00,Scarlett Diaz,scarlett@example.com,555-666-7777,Billing,Overcharged for a service
+4/22/2024 8:30:00,Leo Martin,leo@example.com,111-222-3333,Billing,Charged twice for the same purchase
+4/22/2024 12:15:00,Nora Bell,nora@example.com,987-654-3210,Billing,Payment processing error
+4/22/2024 16:00:00,Daniel Ward,daniel@example.com,333-444-5555,Billing,Recurring payment not canceled despite request
+4/22/2024 19:45:00,Hannah Rivera,hannah@example.com,777-666-5555,Billing,Subscription plan not updated despite payment
+4/22/2024 23:30:00,Christopher Diaz,christopher@example.com,555-666-7777,Billing,Payment gateway error when trying to make a payment
+4/23/2024 11:00:00,Emma Cox,emma@example.com,666-555-4444,Billing,Payment declined due to insufficient funds
+4/23/2024 14:45:00,Lucas Brooks,lucas@example.com,777-666-5555,Billing,Invoice does not reflect recent payment
+4/23/2024 18:30:00,Evelyn Hughes,evelyn@example.com,987-654-3210,Billing,Charged for a service I didn't subscribe to
+4/23/2024 22:15:00,Hunter Henderson,hunter@example.com,555-666-7777,Billing,Payment processing error
+4/24/2024 9:45:00,Katherine Butler,katherine@example.com,555-444-3333,Billing,Payment declined due to expired credit card
+4/24/2024 13:30:00,Easton Mitchell,easton@example.com,222-333-4444,Billing,Charged twice for the same purchase
+4/24/2024 17:15:00,Julia Richardson,julia@example.com,555-666-7777,Billing,Invoice does not reflect recent payment
+4/24/2024 21:00:00,Mateo Griffin,mateo@example.com,222-333-4444,Billing,Subscription plan not updated despite payment
+4/25/2024 8:30:00,Nova Elliott,nova@example.com,555-444-3333,Billing,Payment failed error message despite sufficient funds
+4/25/2024 12:15:00,Axel Martinez,axel@example.com,222-333-4444,Billing,Subscription not renewed automatically
+4/25/2024 16:00:00,Adalyn Stewart,adalyn@example.com,555-444-3333,Billing,Overcharged for a service
+4/25/2024 19:45:00,Bentley Ward,bentley@example.com,555-666-7777,Billing,Payment gateway error when trying to make a payment
+4/25/2024 23:30:00,Malia Cook,malia@example.com,777-888-9999,Billing,Charged for canceled subscription
+4/26/2024 11:00:00,Ezekiel Mitchell,ezekiel@example.com,666-555-4444,Billing,Payment declined due to expired credit card
+4/26/2024 14:45:00,Ivy Rivera,ivy@example.com,777-666-5555,Billing,Subscription plan not updated despite payment
+4/26/2024 18:30:00,Evan Mitchell,evan@example.com,666-555-4444,Billing,Payment failed error message despite sufficient funds
+4/26/2024 22:15:00,Isla Richardson,isla@example.com,777-666-5555,Billing,Charged twice for the same purchase
+4/20/2024 0:36:00,Kavya,komarkavyas@gmail.com,9380675445,Technical,Not supporting
+4/20/2024 8:35:00,Sandeep Attri,sandeep@gmail.com,8218880424,Technical,Refreshing problem
+4/20/2024 8:58:00,Rahul,Rahul980@gmail.com,9883582637,Technical,I faced some technical issue some glitches are there
+4/20/2024 9:05:00,Urvashi,mala.urvashi@gmail.com,9431248368,Technical,Seems slow
+4/20/2024 9:11:00,Sunita,stns@gmail.com,9430804368,Technical,May contain more fields.
+4/20/2024 9:15:00,Urvashi M,urvashimala@hotmail.com,8521035532,Technical,calculation instruction may be changed.
+4/20/2024 9:19:00,Raj Kumar,shree.projectworks@gmail.com,9431248368,Technical,Billing section must be corrected
+4/20/2024 9:29:00,Ram Babu,excursion.ur@gmail.com,9431248368,Technical,Some more fields are required
+4/20/2024 9:59:00,Vineet Godara,Vineet5292@gmail.com,9368383831,Technical,Technical issue
+4/20/2024 10:05:00,H HARINADH,harinathrao13@gmail.com,7842845297,Technical,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+4/20/2024 10:52:00,Anant kapoor,anant.kapooor@gmail.com,9305107868,Technical,Technical issues
+4/20/2024 11:00:00,Bob Johnson,bob@example.com,555-123-4567,Technical,App crashes when I try to upload a file
+4/20/2024 13:30:00,Michael Lee,michael@example.com,444-555-6666,Technical,Videos won't play on the app
+4/20/2024 17:15:00,Emily Taylor,emily@example.com,111-222-3333,Technical,App freezes when I try to access certain features
+4/20/2024 21:00:00,Ethan Hall,ethan@example.com,666-555-4444,Technical,App crashes on startup
+4/21/2024 8:30:00,Sophia King,sophia@example.com,999-888-7777,Technical,Slow performance on the app
+4/21/2024 12:15:00,Logan Perez,logan@example.com,666-777-8888,Technical,Error message when trying to submit a support ticket
+4/21/2024 16:00:00,Stella Hill,stella@example.com,777-888-9999,Technical,Missing features after app update
+4/21/2024 19:45:00,Alexander Green,alexander@example.com,123-456-7890,Technical,App crashes when trying to access account settings
+4/21/2024 23:30:00,Violet Adams,violet@example.com,666-555-4444,Technical,App not compatible with my device
+4/22/2024 11:00:00,Liam Rivera,liam@example.com,222-333-4444,Technical,App crashes when trying to apply a discount code
+4/22/2024 14:45:00,Grace Ross,grace@example.com,222-111-0000,Technical,Error message when trying to update billing information
+4/22/2024 18:30:00,Thomas Perry,thomas@example.com,111-222-3333,Technical,App crashes when trying to view order history
+4/22/2024 22:15:00,Sofia Campbell,sofia@example.com,123-456-7890,Technical,App crashes when trying to access certain features
+4/23/2024 9:45:00,Christopher White,christopher.w@example.com,987-654-3210,Technical,App freezes when trying to update profile picture
+4/23/2024 13:30:00,Samantha Peterson,samantha@example.com,555-444-3333,Technical,Error message when trying to update account information
+4/23/2024 17:15:00,Aiden Foster,aiden@example.com,123-456-7890,Technical,App crashes when trying to update profile information
+4/23/2024 21:00:00,Zoey Carter,zoey@example.com,222-333-4444,Technical,App crashes on startup
+4/24/2024 8:30:00,Christian Griffin,christian@example.com,123-456-7890,Technical,App freezes when trying to update profile picture
+4/24/2024 12:15:00,Adeline Hayes,adeline@example.com,666-555-4444,Technical,App crashes when trying to update account information
+4/24/2024 16:00:00,Maverick Coleman,maverick@example.com,123-456-7890,Technical,App freezes when trying to access certain features
+4/24/2024 19:45:00,Aubrey Coleman,aubrey@example.com,666-555-4444,Technical,Error message when trying to submit a support ticket
+4/24/2024 23:30:00,Elias Cook,elias@example.com,123-456-7890,Technical,App crashes when trying to view order history
+4/25/2024 11:00:00,Lily Ward,lily@example.com,987-654-3210,Technical,Error message when trying to apply a discount code
+4/25/2024 14:45:00,Caleb Cooper,caleb@example.com,123-456-7890,Technical,App not compatible with my device
+4/25/2024 18:30:00,Khloe Scott,khloe@example.com,987-654-3210,Technical,Error message when trying to submit a support ticket
+4/25/2024 22:15:00,Zane Allen,zane@example.com,222-333-4444,Technical,Error message when trying to update account information
+4/26/2024 9:45:00,Jade Evans,jade@example.com,987-654-3210,Technical,Error message when trying to update profile picture
+4/26/2024 13:30:00,King Harris,king@example.com,555-444-3333,Technical,Error message when trying to submit a support ticket
+4/26/2024 17:15:00,Aria Brown,aria@example.com,987-654-3210,Technical,App crashes when trying to view order history
+4/26/2024 21:00:00,Parker Perez,parker@example.com,555-444-3333,Technical,Error message when trying to update billing information
+4/20/2024 9:18:00,Ragini,holidayh@gmail.com,9430804368,Technical,Error message when trying to update billing information
+4/24/2024 10:15,Rahul Sharma,rahul@example.com,987-654-3210,Account Management,Unable to access account
+4/24/2024 12:30,Priya Patel,priya@example.com,123-456-7890,Account Management,Account information incorrect
+4/24/2024 14:45,Rajesh Singh,rajesh@example.com,555-555-5555,Account Management,Account login issue
+4/24/2024 16:00,Neha Gupta,neha@example.com,111-222-3333,Account Management,Account settings not saving
+4/24/2024 17:30,Sanjay Kumar,sanjay@example.com,777-888-9999,Account Management,Account profile not updating
+4/25/2024 9:00,Meera Shah,meera@example.com,444-444-4444,Account Management,Account balance discrepancy
+4/25/2024 10:30,Rohit Verma,rohit@example.com,666-666-6666,Account Management,Unable to recover account
+4/25/2024 12:45,Sonali Desai,sonali@example.com,999-999-9999,Account Management,Account transaction history missing
+4/25/2024 15:00,Deepak Patel,deepak@example.com,222-222-2222,Account Management,Account payment method not working
+4/25/2024 17:15,Pooja Sharma,pooja@example.com,888-888-8888,Account Management,Account profile information incorrect
+4/26/2024 8:30,Aryan Singh,aryan@example.com,777-777-7777,Account Management,Account closure request not processed
+4/26/2024 10:00,Neha Sharma,neha123@example.com,333-333-3333,Account Management,Unable to verify account ownership
+4/26/2024 11:30,Rahul Gupta,rahul123@example.com,111-111-1111,Account Management,Account password reset not working
+4/26/2024 13:45,Riya Singh,riya123@example.com,555-555-5555,Account Management,Saved payment method not available
+4/26/2024 15:30,Kartik Patel,kartik@example.com,999-999-9999,Account Management,Unable to change account settings
+4/27/2024 9:15,Ananya Sharma,ananya@example.com,666-666-6666,Account Management,Account username change not reflecting
+4/27/2024 11:45,Vikram Singh,vikram@example.com,222-222-2222,Account Management,Account password change not successful
+4/27/2024 14:00,Sneha Gupta,sneha@example.com,777-777-7777,Account Management,Account closure process not initiated
+4/27/2024 16:30,Mohan Patel,mohan@example.com,888-888-8888,Account Management,Payment method addition not available
+4/28/2024 8:45,Aarav Singh,aarav@example.com,333-333-3333,Account Management,Saved payment method deletion not working
+4/23/2024 10:30:00,Olivia Brown,olivia@example.com,111-222-3333,Technical,Login not working
+4/23/2024 11:15:00,Jack Smith,jack@example.com,555-666-7777,Technical,Sign-in page error
+4/23/2024 12:00:00,Emma Wilson,emma@example.com,888-999-0000,Technical,Unable to sign up
+4/23/2024 12:45:00,Liam Thompson,liam@example.com,333-444-5555,Technical,Sign-in button not responsive
+4/23/2024 13:30:00,Mia Johnson,mia@example.com,777-888-9999,Technical,Login credentials not recognized
+4/23/2024 14:15:00,Noah Martinez,noah@example.com,999-888-7777,Technical,Sign-up form not submitting
+4/23/2024 15:00:00,Sophia Wright,sophia@example.com,111-222-3333,Technical,Unable to reset password
+4/23/2024 15:45:00,Ethan Johnson,ethan@example.com,666-777-8888,Technical,Login page keeps reloading
+4/23/2024 16:30:00,Harper Clark,harper@example.com,444-555-6666,Technical,Sign-in error message persists
+4/23/2024 17:15:00,Zoe Rodriguez,zoe@example.com,222-333-4444,Technical,Sign-up verification email not received
+4/24/2024 9:30:00,Liam Jackson,liamj@example.com,123-456-7890,Technical,Forgotten password link not working
+4/24/2024 10:15:00,Isabella White,isabella@example.com,234-567-8901,Technical,Unable to create account with existing email
+4/24/2024 11:00:00,Noah Thompson,noaht@example.com,345-678-9012,Technical,Login session timeout too short
+4/24/2024 11:45:00,Ava Anderson,ava@example.com,456-789-0123,Technical,Sign-up page formatting issue on mobile
+4/24/2024 12:30:00,Lucas Garcia,lucas@example.com,567-890-1234,Technical,Error message when attempting to change password
+4/24/2024 13:15:00,Mia Robinson,mia2@example.com,678-901-2345,Technical,Sign-in page not loading
+4/24/2024 14:00:00,James Wilson,jamesw@example.com,789-012-3456,Technical,Account creation captcha not displaying
+4/24/2024 14:45:00,Sophia Moore,sophiam@example.com,890-123-4567,Technical,Incorrect email format error not displayed
+4/24/2024 15:30:00,Ethan Brown,ethanb@example.com,901-234-5678,Technical,Sign-in with Google button not working
+4/24/2024 16:15:00,Mia Thompson,miat@example.com,012-345-6789,Technical,Password strength requirements not clear
+4/24/2024 17:00:00,Noah Lee,noahl@example.com,123-456-7890,Technical,Account activation email not received
+4/24/2024 17:45:00,Ava Martinez,avam@example.com,234-567-8901,Technical,Error when attempting to log in with Facebook
+4/24/2024 18:30:00,Lucas Taylor,lucast@example.com,345-678-9012,Technical,Unable to reset password via email link
+4/24/2024 19:15:00,Sophia Johnson,sophiej@example.com,456-789-0123,Technical,Account activation link expired
+4/24/2024 20:00:00,Ethan Davis,ethand@example.com,567-890-1234,Technical,Sign-up page terms and conditions link broken
+4/24/2024 20:45:00,Mia Garcia,miag@example.com,678-901-2345,Technical,Password recovery email not sent
+4/24/2024 21:30:00,Noah Hernandez,noahn@example.com,789-012-3456,Technical,Error message when trying to log in after sign-up
+4/24/2024 22:15:00,Ava Thompson,avat@example.com,890-123-4567,Technical,Account locked after multiple failed login attempts
+4/24/2024 23:00:00,Lucas Rodriguez,lucasr@example.com,901-234-5678,Technical,Error when trying to update account settings
+4/25/2024 9:30:00,Sophia Martinez,sophiamart@example.com,012-345-6789,Technical,Unable to create account with special characters in password
+4/25/2024 10:15:00,Ethan Wilson,ethanwil@example.com,123-456-7890,Technical,Account deletion confirmation email not received
+4/25/2024 11:00:00,Mia Moore,miam@example.com,234-567-8901,Technical,Error when trying to log in with Apple ID
+4/25/2024 11:45:00,Noah Taylor,noahtay@example.com,345-678-9012,Technical,Sign-up page stuck on loading spinner
+4/25/2024 12:30:00,Ava Brown,avab@example.com,456-789-0123,Technical,Password reset link expired
+4/25/2024 13:15:00,Lucas Moore,lucasm@example.com,567-890-1234,Technical,Unable to log in on new device without verification code
+4/25/2024 14:00:00,Sophia Davis,sophiad@example.com,678-901-2345,Technical,Sign-up confirmation page blank after submission
+4/25/2024 14:45:00,Ethan Johnson,ethanj@example.com,789-012-3456,Technical,Account creation form submission error
+4/25/2024 15:30:00,Mia Thompson,miath@example.com,890-123-4567,Technical,Unable to sign in after password reset
+4/25/2024 16:15:00,Noah Hernandez,noahh@example.com,901-234-5678,Technical,Sign-in page CSS formatting issue
+4/25/2024 17:00:00,Ava Rodriguez,avar@example.com,012-345-6789,Technical,Error message when attempting to log in with LinkedIn
+4/25/2024 17:45:00,Lucas Thompson,lucasth@example.com,123-456-7890,Technical,Password recovery link not clickable in email
+4/25/2024 18:30:00,Sophia Garcia,sophiag@example.com,234-567-8901,Technical,Sign-up confirmation email in spam folder
+4/25/2024 19:15:00,Ethan Taylor,ethantay@example.com,345-678-9012,Technical,Error message when trying to log in after account creation
+4/25/2024 20:00:00,Mia Rodriguez,miar@example.com,456-789-0123,Technical,Account settings not saving changes
+4/25/2024 20:45:00,Noah Martinez,noahm@example.com,567-890-1234,Technical,Sign-in page keeps redirecting to homepage
+4/25/2024 21:30:00,Ava Moore,avam@example.com,678-901-2345,Technical,Error when trying to log in with Twitter
+4/25/2024 22:15:00,Lucas Brown,lucasb@example.com,789-012-3456,Technical,Password change form not submitting
+4/25/2024 23:00:00,Sophia Moore,sophiamoo@example.com,890-123-4567,Technical,Error when trying to retrieve security questions for password reset
+4/26/2024 9:30:00,Ethan Wilson,ethanwil@example.com,901-234-5678,Technical,Account deletion error message not clear
+4/26/2024 10:15:00,Mia Martinez,miamar@example.com,012-345-6789,Technical,Error message when attempting to log in from different timezone
+4/26/2024 11:00:00,Noah Taylor,noahtayl@example.com,123-456-7890,Technical,Sign-up form accepting invalid email format
+4/26/2024 11:45:00,Ava Johnson,avaj@example.com,234-567-8901,Technical,Account settings page showing incorrect information
+4/26/2024 12:30:00,Lucas Hernandez,lucash@example.com,345-678-9012,Technical,Unable to log in after password change
+4/26/2024 13:15:00,Sophia Thompson,sophiath@example.com,456-789-0123,Technical,Error when attempting to log in after account suspension
+4/26/2024 14:00:00,Ethan Rodriguez,ethanro@example.com,567-890-1234,Technical,Password reset link not working
+4/26/2024 14:45:00,Mia Garcia,miagar@example.com,678-901-2345,Technical,Unable to sign in after account deletion
+4/26/2024 15:30:00,Noah Moore,noahm@example.com,789-012-3456,Technical,Sign-up form not accepting valid password format
+4/26/2024 16:15:00,Ava Martinez,avamart@example.com,890-123-4567,Technical,Account locked without warning
+4/26/2024 17:00:00,Lucas Johnson,lucasj@example.com,901-234-5678,Technical,Error message when attempting to log in after account deletion
+4/26/2024 17:45:00,Sophia Brown,sophiab@example.com,012-345-6789,Technical,Unable to change password
+4/26/2024 18:30:00,Ethan Taylor,ethantayl@example.com,123-456-7890,Technical,Error when attempting to log in after password reset
+4/26/2024 19:15:00,Mia Hernandez,miah@example.com,234-567-8901,Technical,Account suspended without explanation
+4/26/2024 20:00:00,Noah Johnson,noahj@example.com,345-678-9012,Technical,Unable to sign in after account suspension
+4/26/2024 20:45:00,Ava Thompson,avath@example.com,456-789-0123,Technical,Account suspended for unknown reason
+4/26/2024 21:30:00,Lucas Martinez,lucasmart@example.com,567-890-1234,Technical,Unable to sign in with correct credentials
+4/26/2024 22:15:00,Sophia Garcia,sophiag@example.com,678-901-2345,Technical,Error when attempting to log in after email change
+4/26/2024 23:00:00,Ethan Moore,ethanm@example.com,789-012-3456,Technical,Unable to sign in with correct credentials
+4/25/2024 10:30,Michael Johnson,michael@example.com,123-456-7890,Billing,Payment confirmation email not received
+4/25/2024 13:45,Emily Clark,emily@example.com,456-789-0123,Billing,Incorrect billing address entered during checkout
+4/26/2024 9:15,David Lee,david@example.com,789-012-3456,Billing,Subscription plan upgraded without authorization
+4/26/2024 11:30,Sarah Thompson,sarah@example.com,012-345-6789,Billing,Payment receipt shows incorrect amount
+4/27/2024 15:00,John Davis,john@example.com,345-678-9012,Billing,Unable to add new payment method
+4/27/2024 17:45,Samantha Miller,samantha@example.com,678-901-2345,Billing,Billing statement not available in account dashboard
+4/28/2024 8:00,Andrew Wilson,andrew@example.com,901-234-5678,Billing,Automatic payment failed due to bank authorization
+4/28/2024 10:30,Jessica Brown,jessica@example.com,234-567-8901,Billing,Payment processed but service not activated
+4/29/2024 12:15,Matthew Taylor,matthew@example.com,567-890-1234,Billing,Incorrect VAT charges on invoice
+4/29/2024 14:30,Lauren Martinez,lauren@example.com,890-123-4567,Billing,Payment confirmation page freezes during checkout
+4/30/2024 9:30,Christopher Lee,christopher@example.com,123-456-7890,Billing,Invoice not generated for recent subscription renewal
+4/30/2024 11:46,Ashley Garcia,ashley@example.com,456-789-0123,Billing,Monthly subscription fee increased without notice
+4/30/2024 11:46,Daniel Martinez,daniel@example.com,789-012-3456,Billing,Incorrect currency conversion applied to payment
+4/30/2024 11:47,Elizabeth Nguyen,elizabeth@example.com,012-345-6789,Billing,Payment receipt not accessible in account portal
+4/30/2024 11:48,Taylor Hernandez,taylor@example.com,345-678-9012,Billing,Difficulty accessing billing history
+4/30/2024 11:49,Justin Kim,justin@example.com,678-901-2345,Billing,Monthly statement not emailed as expected
+4/30/2024 11:50,Rachel Adams,rachel@example.com,901-234-5678,Billing,Overcharged for previous month's usage
+4/30/2024 11:51,Patrick Nguyen,patrick@example.com,234-567-8901,Billing,Difficulty canceling auto-renewal
+4/30/2024 11:52,Olivia Robinson,olivia@example.com,567-890-1234,Billing,Payment confirmation email sent to wrong address
+4/30/2024 11:53,Samantha Lee,samantha@example.com,890-123-4567,Billing,Payment receipt contains incorrect billing period
+4/30/2024 11:54,Ryan Smith,ryan@example.com,123-456-7890,Billing,Payment processing error
+4/30/2024 11:55,Megan Wilson,megan@example.com,456-789-0123,Billing,Duplicate charges on credit card statement
+4/30/2024 11:56,Joshua Brown,joshua@example.com,789-012-3456,Billing,Monthly subscription fee not reflected in account
+4/30/2024 11:57,Emma Garcia,emma@example.com,012-345-6789,Billing,Payment receipt missing from email inbox

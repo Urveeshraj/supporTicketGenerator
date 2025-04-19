@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Ticket Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Support Ticket Generator</h2>
+        <form id="ticketForm">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="phone">Phone Number:</label><br>
+            <input type="tel" id="phone" name="phone" pattern="[0-9]{10}" required><br>
+
+            <label for="email">Email ID:</label><br>
+            <input type="email" id="email" name="email" required><br>
+
+            <label for="issue">Issue:</label><br>
+            <textarea id="issue" name="issue" rows="4" required></textarea><br>
+
+            <input type="submit" value="Submit">
+        </form>
+
+        <div id="result" style="display: none;">
+            <h2>Thank You for your Response</h2>
+            <p id="result2">We have forwarded your issue to the following:</p>
+            <p id="department"></p>
+            <p id="message">We will get your issue fixed as soon as possible.</p>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#ticketForm').submit(function (e) {
+                e.preventDefault();
+                $.ajax({
+                    type: 'POST',
+                    url: '/predict',
+                    data: $(this).serialize(),
+                    success: function (response) {
+                        $('#result').show();
+                        $('#department').text('Predicted Department: ' + response.predicted_department);
+                    },
+                    error: function (error) {
+                        console.log(error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
